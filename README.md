@@ -1,0 +1,2 @@
+# PrivateAi_Challenge_FederatedLearning
+Federated Learning with Pysyft Exercises
